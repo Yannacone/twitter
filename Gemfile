@@ -1,7 +1,19 @@
 source 'https://rubygems.org'
 
+# Start Customs ####################################################
+
+
+# Devise (User Accounts/Authenticating)
+gem 'devise'
+
 # Twitter UI
 gem 'bootstrap-sass', '~> 3.3.6'
+
+
+
+
+
+# End Customs ####################################################
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
